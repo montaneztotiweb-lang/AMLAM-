@@ -115,14 +115,6 @@ Sitio web institucional de una página (one page) para empresa de servicios atmo
 
 ---
 
-## Pendiente
-
-- [ ] Reseñas reales de Google para reemplazar testimonios de muestra
-- [ ] Compra de dominio en NIC Argentina (.com.ar)
-- [ ] Verificación de Google Business Profile
-
----
-
 ## Créditos
 
 Desarrollado por **Creadoras3D** — [creadoras3d.com.ar](https://creadoras3d.com.ar)  
